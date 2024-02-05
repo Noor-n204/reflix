@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.UserL{
+    text-decoration: none;
+    color: black;
+}
+
+
+.firstUser{
+    background-color: rgb(71, 141, 240);
+    width: 10%;
+}
+.secondUser{
+    background-color: rgb(243, 77, 39);
+    width: 10%;
+}
+.thirdUser{
+    background-color: rgb(88, 245, 45);
+    width: 10%;
+}
+.fourthUser{
+    background-color: rgb(241, 238, 74);
+    width: 10%;
+}

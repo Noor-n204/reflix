@@ -1,0 +1,19 @@
+.budget{
+    color: whitesmoke;
+}
+
+h3{
+    color: whitesmoke;
+}
+
+.image{
+    display: block;
+    
+}
+
+.img{
+    float: left;
+    justify-content: flex-start;
+    width: 15rem;
+    margin: auto 25px;
+}

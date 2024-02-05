@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+
+    /* justify-content: center; */
+    width: 50%;
+    justify-content: space-around;
+}
+
+.home{
+    text-decoration: none;
+    font-weight: 500;
+    color: whitesmoke;
+}
+
+.catalog{
+    text-decoration: none;
+    font-weight: 500;
+    color: whitesmoke
+}
+
+.reflix{
+    margin-top: 1.5%;
+    color: blue;
+    font-weight: 700;
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+    justify-content: flex-end
+}
