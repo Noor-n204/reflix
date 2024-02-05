@@ -12,7 +12,6 @@ export default function Catalog() {
     let [rented, setRented] = useState([])
     let [isSearching , setIsSearching] = useState(false)
     let [searchInput, setSearchInput] = useState("")
-    let [movieResult, setMovieResult] = useState(rented)
     let [rentedResult, setRentedResult] = useState(rented)
     let rentedLen = rented.length
 
